@@ -1,1 +1,6 @@
+title: About Me
+logo: /images/me.jpg
+description: Jacob's Github Page
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
