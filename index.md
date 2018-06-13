@@ -17,5 +17,4 @@ I'm a software developer from Tennessee. I work with .NET, Python, and SQL mostl
 
 ```elisp
 (ido-mode 1)
-}
 ```
