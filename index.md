@@ -7,11 +7,15 @@ I'm a software developer from Tennessee. I work with .NET, Python, and SQL mostl
 
 ## Projects
 
-[Plant Digitization Project](https://github.com/j-h-m/Plant-Digitization-Project).
+[Plant Digitization Project](https://j-h-m.github.io/Plant-Digitization-Project/)
 
-[PD Project - Xamarin App](https://github.com/j-h-m/pd-project-xamarin).
+[Repo](https://github.com/j-h-m/Plant-Digitization-Project)
 
-[Symbiota DBBI](https://github.com/j-h-m/Symbiota-Light).
+[PD Project - Xamarin App](https://j-h-m.github.io/pd-project-xamarin/)
+
+[Repo](https://github.com/j-h-m/pd-project-xamarin)
+
+[Symbiota DBBI - Repo](https://github.com/j-h-m/Symbiota-Light)
 
 ### Stuff
 
