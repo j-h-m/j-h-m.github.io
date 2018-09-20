@@ -3,8 +3,10 @@ layout: default
 ---
 # About me 
 
-I'm a software developer in Tennessee. I have volunteered on a few projects with The Herbarium Consortium at UTC in Chattanooga. [CapPow](https://github.com/CapPow) and myself are working on a pair of applications for field research.
-One is a data processing application powered by Python and another is a Xamarin Forms project that will result in an Android and iOS application.
+I'm a software developer currently employed in Tennessee.
+
+I have volunteered on a few projects with The Herbarium Consortium at UTC in Chattanooga. [CapPow](https://github.com/CapPow) and I are working on a pair of applications for field research.
+One is a data processing application powered by Python and another is a Xamarin Forms project that will result in an Android and iOS application. They will allow plant collectors to easily gather collection information in the field and refine it for storage in a [Symbiota](http://symbiota.org/docs/) powered database.
 
 ## Projects
 
@@ -16,13 +18,3 @@ Xamarin-Powered Mobile App
 
 Symbiota Tool
 [Symbiota DBBI](https://github.com/j-h-m/Symbiota-Light)
-
-## Interests
-
-Open Source Software
-
-Programming Languages
-
-Software System Design
-
-Linux Systems - because who doesn't love a system that can run on a printer, desktop, nintendo switch, and super computer?!
