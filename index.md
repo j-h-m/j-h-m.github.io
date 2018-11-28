@@ -1,20 +1,27 @@
 ---
 layout: default
 ---
-# About me 
+# About me
 
-I'm a software developer currently employed in Tennessee.
+I'm currently employed at Barcom, Inc. in Tennessee. My professional work is closed-source so none of it will appear here. My professional experience revolves around .NET and Microsoft's Sql Server. Most of my repos are either volunteer projects or something I need to have easy-access to on multiple machines.
 
-I have volunteered on a few projects with The Herbarium Consortium at UTC in Chattanooga. [CapPow](https://github.com/CapPow) and I are working on a pair of applications for field research.
-One is a data processing application powered by Python and another is a Xamarin Forms project that will result in an Android and iOS application. They will allow plant collectors to easily gather collection information in the field and refine it for storage in a [Symbiota](http://symbiota.org/docs/) powered database.
+# Notable Projects
 
-## Projects
+[Plant Digitization Project](https://j-h-m.github.io/Plant-Digitization-Project/)
 
-Python-Powered Desktop Application (We haven't named it yet)
-[Plant Digitization Project](https://j-h-m.github.io/Plant-Digitization-Project/) - [Repo](https://github.com/j-h-m/Plant-Digitization-Project)
+[PD Project - Xamarin App](https://j-h-m.github.io/pd-project-xamarin/)
 
-Xamarin-Powered Mobile App
-[PD Project - Xamarin App](https://j-h-m.github.io/pd-project-xamarin/) - [Repo](https://github.com/j-h-m/pd-project-xamarin)
-
-Symbiota Tool
 [Symbiota DBBI](https://github.com/j-h-m/Symbiota-Light)
+
+# Goals
+
+ - Learning a handful of programming languages well.
+    - C#
+    - Java
+    - Python
+    - Javascript
+    - C/C++
+
+ - Completing the [OMSCS](http://www.omscs.gatech.edu/) program. 
+ 
+ - Becomming a [Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
