@@ -24,4 +24,4 @@ I'm currently employed at Barcom, Inc. in Tennessee. My professional work is clo
 
  - Completing the [OMSCS](http://www.omscs.gatech.edu/) program. 
  
- - Becomming a [Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
+ - Becoming a [Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
