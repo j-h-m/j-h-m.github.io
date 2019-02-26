@@ -25,4 +25,4 @@ Plant Digitization Project:
 
  - Completing the [OMSCS](http://www.omscs.gatech.edu/) program.
  
- - Becoming a [Hacker](http://www.catb.org/esr/faqs/hacker-howto.html)
+ - Becoming a [Hacker](http://www.catb.org/esr/faqs/hacker-howto.html) ... maybe not in the literal open-source sense, but his method of learning is a great guide for anyone, I believe.
