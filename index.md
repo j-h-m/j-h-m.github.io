@@ -3,7 +3,7 @@ layout: default
 ---
 # About me
 
-I'm currently employed at Barcom, Inc. in Tennessee. My professional work is closed-source so none of it will appear here. My professional experience revolves around .NET and Microsoft's Sql Server. Technologies that pique my interest are Xamarin, Tensorflow (no experience here... yet), and .NET Core.
+I'm currently employed at Barcom, Inc. in Tennessee. My professional work is closed-source so none of it will appear here. My professional experience revolves around .NET and Microsoft's Sql Server. Technologies that pique my interest are Xamarin, Tensorflow (no experience here... yet), .NET Core, and Microsoft's Hololens Tech (would <3 to test :P).
 
 # Notable Projects
 Plant Digitization Project:
