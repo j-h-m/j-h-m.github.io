@@ -3,13 +3,11 @@ layout: default
 ---
 # About me
 
-My professional experience revolves around Microsoft Tech. Technologies that pique my interest are Xamarin, Tensorflow (no experience here... yet), .NET Core, and Microsoft's Hololens Tech (would <3 to test :P).
+My professional experience revolves around .NET and dotnet.
 
 # Notable Projects
 Plant Digitization Project:
 
-[collBook](https://github.com/CapPow/collBook)
+[collBook](https://github.com/CapPow/collBook) <--- didn't write this one
 
 [collNotes](https://github.com/j-h-m/collNotes)
-
-[Symbiota DBBI](https://github.com/j-h-m/Symbiota-Light)
