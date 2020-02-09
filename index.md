@@ -10,6 +10,7 @@ collNotes and collBook - Projects for use in Botany Labs and Field Research:
 
 Lab:
 [collBook](https://github.com/CapPow/collBook)
+[HerbASAP](https://github.com/CapPow/HerbASAP) - see libs/boss_worker.py
 
 Field:
 [collNotes](https://github.com/j-h-m/collNotes)
