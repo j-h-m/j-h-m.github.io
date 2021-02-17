@@ -1,14 +1,9 @@
 ---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
 layout: default
 ---
-# Projects
-collNotes and collBook - used in Botany Labs and Field Research:
-
-[collBook](https://github.com/CapPow/collBook)
-
-[HerbASAP](https://github.com/CapPow/HerbASAP) - see libs/boss_worker.py
-
-[collNotes](https://github.com/j-h-m/collNotes)
-
-Google Scholar:
-[Link](https://scholar.google.com/citations?user=7AuSH5IAAAAJ&hl=en&oi=ao)
