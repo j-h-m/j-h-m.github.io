@@ -50,7 +50,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a Graduate student studying Cyber Secruity at UTC as a member of the CyberCorps program.
   The projects related to Botany were in relation to cross-field collaborative research and tool building between Computer Science and Biology. I worked on these as an Undergraduate.
-  My current research interests are Cyber Security, Data Science, ML, and AI. I also enjoy building my own systems and learning about hardware.
+  My current research interests are Cyber Security, Data Science, ML, and AI. I also enjoy building my own networking and workstation systems and learning about hardware. Using operating systems such as Linux, PfSense, Windows, and more.
   It's safe to say I have a tech addiction at this point.
 
 content:
@@ -133,10 +133,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in technology some of my other interests are:
-      - Mountain Biking
-      - Motorcycle Riding
-      - Car Racing
+      My favorite tools for work:
+      - Visual Studio Code
+      - Custom PC with water cooled gtx 1080 ti
+      - Regolith Linux and I3WM and the Emacs editor is my go-to on a command-line only Linux
+      - My personal/home OpenVPN setup for using my dual-boot Software/CyberSec/ML/AI workstation remotely
       
 
 # Footer
