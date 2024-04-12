@@ -48,7 +48,7 @@ linkedin_username: jacob-motley
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  M.S Computer Science - Working in Windows System Administration at TVA. Open to collaboration on side projects in .NET and Python.
+  M.S Computer Science - Working in Windows System Administration at TVA.
   The projects related to Botany were in relation to cross-field collaborative research and tool building between Computer Science and Biology.
 content:
   - title: Projects # Title for the section
